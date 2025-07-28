@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = eCommerce.DATA
-build_property.ProjectDir = C:\Users\HP\source\repos\eCommerce\eCommerce.DATA\
+build_property.ProjectDir = C:\Users\HP\Documents\GitHub\shopping\eCommerce\eCommerce.DATA\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

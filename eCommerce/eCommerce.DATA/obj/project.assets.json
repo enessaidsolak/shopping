@@ -4726,11 +4726,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\eCommerce\\eCommerce.DATA\\eCommerce.DATA.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\shopping\\eCommerce\\eCommerce.DATA\\eCommerce.DATA.csproj",
       "projectName": "eCommerce.DATA",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\eCommerce\\eCommerce.DATA\\eCommerce.DATA.csproj",
+      "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\shopping\\eCommerce\\eCommerce.DATA\\eCommerce.DATA.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\eCommerce\\eCommerce.DATA\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\shopping\\eCommerce\\eCommerce.DATA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

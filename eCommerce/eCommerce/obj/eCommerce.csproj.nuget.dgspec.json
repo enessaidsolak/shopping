@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\eCommerce\\eCommerce\\eCommerce.csproj": {}
+    "C:\\Users\\HP\\Documents\\GitHub\\shopping\\eCommerce\\eCommerce\\eCommerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\eCommerce\\eCommerce.DATA\\eCommerce.DATA.csproj": {
+    "C:\\Users\\HP\\Documents\\GitHub\\shopping\\eCommerce\\eCommerce.DATA\\eCommerce.DATA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\eCommerce\\eCommerce.DATA\\eCommerce.DATA.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\shopping\\eCommerce\\eCommerce.DATA\\eCommerce.DATA.csproj",
         "projectName": "eCommerce.DATA",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\eCommerce\\eCommerce.DATA\\eCommerce.DATA.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\shopping\\eCommerce\\eCommerce.DATA\\eCommerce.DATA.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\eCommerce\\eCommerce.DATA\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\shopping\\eCommerce\\eCommerce.DATA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\HP\\source\\repos\\eCommerce\\eCommerce\\eCommerce.csproj": {
+    "C:\\Users\\HP\\Documents\\GitHub\\shopping\\eCommerce\\eCommerce\\eCommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\eCommerce\\eCommerce\\eCommerce.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\shopping\\eCommerce\\eCommerce\\eCommerce.csproj",
         "projectName": "eCommerce",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\eCommerce\\eCommerce\\eCommerce.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\shopping\\eCommerce\\eCommerce\\eCommerce.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\eCommerce\\eCommerce\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\shopping\\eCommerce\\eCommerce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -102,8 +102,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\HP\\source\\repos\\eCommerce\\eCommerce.DATA\\eCommerce.DATA.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\eCommerce\\eCommerce.DATA\\eCommerce.DATA.csproj"
+              "C:\\Users\\HP\\Documents\\GitHub\\shopping\\eCommerce\\eCommerce.DATA\\eCommerce.DATA.csproj": {
+                "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\shopping\\eCommerce\\eCommerce.DATA\\eCommerce.DATA.csproj"
               }
             }
           }
